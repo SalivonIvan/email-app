@@ -11,7 +11,7 @@ and up to 8 more lines.
 
 ## Prerequisites
 
-1. JDK 17 installed with JAVA_HOME configured appropriately
+1. JDK 17+ installed with JAVA_HOME configured appropriately
 2. Apache Maven 3.9.6 
 
 Preparation:
